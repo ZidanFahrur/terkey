@@ -62,30 +62,7 @@ class Terkey:
     key = "[['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]"
     return key
 
-  def about(self):
-    self.banner()
-    print(f"""
-    {a}W E L C O M E  !{c}
 
-    This is Terkey, the Termux Key shortcut !
-    A program from {a}Karjok Pangesty{c} for you.
-    This tool is only for Termux app and absolutely FREE !
-
-    You can find all default keys in this program at
-    {a}https://wiki.termux.com/wiki/Touch_Keyboard{c}
-
-    Want to chat with me ? You can find me on
-    * Telegram  : {a}https://t.me/om_karjok{c}
-    * Facebook  : {a}https://fb.me/om.karjok{c}
-    * Instagram : {a}https://ig.me/karjok.pangesty{c}
-    * Blog      : {a}https://www.karjokpangesty.com{c}
-    * Youtube   : {a}https://youtube.com/c/KarjokPangesty{c}
-
-    And if you want to give me some money, you can visit{a}https://trakteer.id/karjok-pangesty{c}
-
-    """
-
-    )
 
   # And if you select custom keys,
 
@@ -197,4 +174,4 @@ if __name__=='__main__':
 
 # ini cuma shortcut buat bantu para nub
 
-# karjok pangesty
+
